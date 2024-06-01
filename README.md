@@ -13,7 +13,7 @@ Hey there! My name is Harrison Tran and I'm a technical recruiter with 5+ years 
 * [Acquisitions](https://www.crunchbase.com/): Useful to pulse check the market.
 * [trueup layoffs tracker](https://www.trueup.io/layoffs): Trueup hyperlinks the actual articles discussing the layoff news at various companies.
 * [layoff.fyi tracker](https://layoffs.fyi/): Another layoff tracker, sometimes will have sheets with affected employee info.
-* [StackOverflow Dev Survey](https://insights.stackoverflow.com/survey/2023](https://survey.stackoverflow.co/2023/): Every year, I take the time to look through Stack's report to better understand what's happening in the world of Software Development
+* [StackOverflow Dev Survey](https://survey.stackoverflow.co/2023/): Every year, I take the time to look through Stack's report to better understand what's happening in the world of Software Development
 * [Indeed Hiring Lab](https://www.hiringlab.org/): great for research on individual countries and getting a pulse on hiring appetite by industry & skillset
 * [Talent Sourcing Technical Toolbox](https://wizardsourcer.com/tools/): WizardSourcer is a great place to find different tools to incorporate into your TA tech stack, from things like Boolean generators, Email finders, Github scrapers, Customized Search Engines and much more. Must read if you're constantly on the hunt to improve your TA tech stack.
 
