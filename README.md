@@ -3,9 +3,9 @@ Hey there! My name is Harrison Tran and I'm a technical recruiter with 5+ years 
 
 ## **Resource - Generative AI in HR:**
 * [The Role Of Generative AI And Large Language Models in HR](https://joshbersin.com/2023/03/the-role-of-generative-ai-and-large-language-models-in-hr/)
-* [21+ ChatGPT Prompts for HR To Accelerate Your Productivity](https://www.aihr.com/blog/chatgpt-prompts-for-hr/#Before): Some great ChatGPT prompts to use as a recruiter or an HR professional
+* [21+ ChatGPT Prompts for HR To Accelerate Your Productivity](https://www.aihr.com/blog/chatgpt-prompts-for-hr/#Before): Some great ChatGPT prompts to use as a recruiter or an HR professional.
 * [How Generative AI Will Transform HR](https://www.bcg.com/publications/2023/transforming-human-resources-using-generative-ai?utm_source=talentedgeweekly.beehiiv.com&utm_medium=referral&utm_campaign=talent-edge-weekly-issue-194): Great article that HR leaders can review to see possible use cases of Generative AI in traditional HR use cases.
-* [Example of a ChatGPT Policy](https://trainual.com/template/chatgpt-policy): Examples of policy template for the use of Generative AI
+* [Example of a ChatGPT Policy](https://trainual.com/template/chatgpt-policy): Examples of policy template for the use of Generative AI.
 
 ## **Resources - Day-to-Day Talent activities:**
 ### **Talent Sourcing, Talent Market Intelligence Practices:**
@@ -21,9 +21,9 @@ Hey there! My name is Harrison Tran and I'm a technical recruiter with 5+ years 
 * [Diversity Terminology](https://blog.ongig.com/diversity-and-inclusion/diversity-terms/): On D,E,I terminology.
 * [What does privilege look like?](https://www.racialequitytools.org/resourcefiles/mcintosh.pdf): On what privilege can look like in day-to-day actions.  
 * [On Equality vs. Equity](https://publichealthonline.gwu.edu/blog/equity-vs-equality/): On the differences between equality and equity.
-* [On Intersectionality](https://time.com/5560575/intersectionality-theory/): On what intersectionality is in the lens of identity
+* [On Intersectionality](https://time.com/5560575/intersectionality-theory/): On what intersectionality is in the lens of identity.
 * [How to talk about pronouns at work](https://hbr.org/2021/09/how-to-talk-about-pronouns-at-work-a-visual-guide): On respecting and acknowledging pronouns in the workplace
-* [Rivers to Success](https://riverstosuccess.ca/indspire-climbing-the-mountain-for-employees): Great 30 minute course for non-indigenous employees to better understand history around our indigenous communities. I find that our media fails to really provide adequate coverage of Indigenous history so I strongly recommend for individuals to be proactive with their own education.
+* [38 Ways to Make Real Progress on DEI initiatives](https://www.linkedin.com/business/talent/blog/talent-acquisition/ways-to-make-real-progress-on-diversity-equity-and-inclusion): LinkedIn Blog article highlighting some DEI initiatives that help with creating a more diverse and inclusive workforce.
 * [Google: Inclusive event design](https://all-in.withgoogle.com/creative/inclusive-event-design/?fbclid=PAAaZTV0ALcyiZ6DxtFDQL5cKOMMPw_FWhbncAOUTa4SbdVQYJ6IkIt92TsL0_aem_AQkhsd2EPrpBCssSkFYZU1zp3XuuCf6FVgcTJGQOAh1Wm6-Xq4t0s5QWVkPv10DBFxg%23lactation-space#service-animals): An incredible open-source doc from Google outlining best practices on inclusive in-person or virtual events, it covers the gamut from participant registration, speaker representation, logistics and more.
 
 **Some diversity and inclusion organizations to be involved with: (note: this is not a comprehensive list - would love referrals to new organizations as well!)**
