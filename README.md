@@ -1,5 +1,22 @@
-# Technical Recruiting Repo 
-Hey there! My name is Harrison Tran and I'm a technical recruiter with 5+ years of experience based in Toronto, Ontario, Canada. These resources are for my own virtual library and consist of links that I will oftentimes look back to. The content in this hub will evolve as my interest and career evolves in the SaaS space.
+# Technical Recruiting for Dummies 
+Explaining common technical terminologies for Recruiters like myself to understand better. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## **Resource - Generative AI in HR:**
 * [The Role Of Generative AI And Large Language Models in HR](https://joshbersin.com/2023/03/the-role-of-generative-ai-and-large-language-models-in-hr/)
