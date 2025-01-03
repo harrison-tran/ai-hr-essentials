@@ -1,7 +1,16 @@
 # Technical Recruiting for Dummies 
 Explaining common technical terminologies for Recruiters like myself to understand better. 
 
+## **AI/ML Engineering**
+Artificial Intelligence (AI) is like creating a smart assistant or robot that can do tasks that typically require human intelligence. It involves teaching machines how to think, reason, and solve problems. For example, when you ask Siri to set a timer, that’s AI. It understands your request and acts on it.
 
+### **There are many different types of AI**
+<details>
+<summary>Generative AI - Creates new content like text, images, music, or even videos.</summary>
+<br>
+<ul><li>Imagine a talented artist who, after studying thousands of paintings, can paint something completely new in any style you request</li>
+<li>Example: ChatGPT can write essays, poems, or stories, while tools like DALL-E generate pictures based on your description.</li></ul>
+</details>
 
 
 
