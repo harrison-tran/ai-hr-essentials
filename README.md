@@ -5,12 +5,26 @@ Explaining common technical terminologies for Recruiters like myself to understa
 Artificial Intelligence (AI) is like creating a smart assistant or robot that can do tasks that typically require human intelligence. It involves teaching machines how to think, reason, and solve problems. For example, when you ask Siri to set a timer, that’s AI. It understands your request and acts on it.
 
 ### **There are many different types of AI**
+- Narrow AI - designed to perform one specific task really well. It’s like an expert at a single thing but knows nothing else. Like a calculator
+- General AI - would be like a human in terms of intelligence. It can learn, reason, and solve any problem across different domains, not just one. General AI would be like a human in terms of intelligence. It can learn, reason, and solve any problem across different domains, not just one.
+- Super AI - AI that’s smarter than humans at everything (which is purely hypothetical and doesn't exist)
+
+TLDR: Right now only applications of Narrow AI exists.
+
+### **Under Narrow AI, there are three different types:**
 <details>
-<summary>Generative AI - Creates new content like text, images, music, or even videos.</summary>
+<summary>Reactive AI - works in the moment. It looks at what’s happening right now and responds based on pre-defined rules or patterns.</summary>
 <br>
-<ul><li>Imagine a talented artist who, after studying thousands of paintings, can paint something completely new in any style you request</li>
-<li>Example: ChatGPT can write essays, poems, or stories, while tools like DALL-E generate pictures based on your description.</li></ul>
+<ul><li>Imagine a vending machine. You press a button, and it gives you a snack. It doesn’t remember what you bought last time or guess what you’ll want next. It just reacts to the button you press.</li>
+<li>Example: Spam filters in email systems (they analyze each email and decide whether it’s spam based on rules)</li></ul>
 </details>
+
+<details>
+<summary>General AI - would be like a human in terms of intelligence. It can learn, reason, and solve any problem across different domains, not just one.</summary>
+<br>
+<ul><li>Picture a skilled employee who can switch between being a chef, a doctor, and a programmer with ease. This type of AI doesn’t exist yet but is the dream of many researchers.</li></ul>
+</details>
+
 
 
 
