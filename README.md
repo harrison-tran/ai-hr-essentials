@@ -20,9 +20,10 @@ TLDR: Right now only applications of Narrow AI exists.
 </details>
 
 <details>
-<summary>General AI - would be like a human in terms of intelligence. It can learn, reason, and solve any problem across different domains, not just one.</summary>
+<summary>Limited Memory AI - can temporarily “remember” past information to make better decisions. However, this memory isn’t permanent—it’s like writing on a whiteboard and erasing it after the task is done.</summary>
 <br>
-<ul><li>Picture a skilled employee who can switch between being a chef, a doctor, and a programmer with ease. This type of AI doesn’t exist yet but is the dream of many researchers.</li></ul>
+<ul><li>Think of a waiter at a restaurant. They can remember your order while you’re at the table, but once the food is served, they forget what you ordered. They can’t recall it the next day.</li>
+<li> Example: Chatbots (like ChatGPT) that maintain the context of a conversation for a short time but don’t retain long-term memory.</li></ul>
 </details>
 
 
