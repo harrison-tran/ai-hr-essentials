@@ -11,7 +11,7 @@ Artificial Intelligence (AI) is like creating a smart assistant or robot that ca
 
 TLDR: Right now only applications of Narrow AI exists.
 
-### **Under Narrow AI, there are three different types:**
+### **Under Narrow AI, there are three different categorizations:**
 <details>
 <summary>Reactive AI - works in the moment. It looks at what’s happening right now and responds based on pre-defined rules or patterns.</summary>
 <br>
@@ -24,6 +24,13 @@ TLDR: Right now only applications of Narrow AI exists.
 <br>
 <ul><li>Think of a waiter at a restaurant. They can remember your order while you’re at the table, but once the food is served, they forget what you ordered. They can’t recall it the next day.</li>
 <li> Example: Chatbots (like ChatGPT) that maintain the context of a conversation for a short time but don’t retain long-term memory.</li></ul>
+</details>
+
+<details>
+<summary>Generative AI - designed to create or generate something new, like text, images, or music, based on patterns it has learned</summary>
+<br>
+<ul><li>Think of a recipe book. It can combine ingredients to create a variety of dishes, but it doesn’t “know” if the food tastes good or if you’ll like it. It’s just following learned patterns</li>
+<li> Example: ChatGPT for generating text and answering questions or DALL·E for creating images based on descriptions</li></ul>
 </details>
 
 
