@@ -1,4 +1,4 @@
-# Technical Recruiting for Dummies 
+# AI and ML Engineering For Dummies - Recruiter Guide
 Explaining common technical terminologies for Recruiters like myself to understand better. 
 
 ## **AI/ML Engineering**
