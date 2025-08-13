@@ -6,7 +6,7 @@ Artificial Intelligence (AI) is like creating a smart assistant or robot that ca
 
 ### **There are many different types of AI**
 - Narrow AI - designed to perform one specific task really well. It’s like an expert at a single thing but knows nothing else. Like a calculator
-- General AI - would be like a human in terms of intelligence. It can learn, reason, and solve any problem across different domains, not just one. General AI would be like a human in terms of intelligence. It can learn, reason, and solve any problem across different domains, not just one.
+- General AI - would be like a human in terms of intelligence. It can learn, reason, and solve any problem across different domains, not just one. 
 - Super AI - AI that’s smarter than humans at everything (which is purely hypothetical and doesn't exist)
 
 TLDR: Right now only applications of Narrow AI exists.
@@ -32,17 +32,6 @@ TLDR: Right now only applications of Narrow AI exists.
 <ul><li>Think of a recipe book. It can combine ingredients to create a variety of dishes, but it doesn’t “know” if the food tastes good or if you’ll like it. It’s just following learned patterns</li>
 <li> Example: ChatGPT for generating text and answering questions or DALL·E for creating images based on descriptions</li></ul>
 </details>
-
-
-
-
-
-
-
-
-
-
-
 
 
 
