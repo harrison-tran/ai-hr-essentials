@@ -4,18 +4,16 @@ To strategically leverage AI in talent acquisition, a functional understanding o
 ## **AI/ML Engineering**
 You hear the terms Artificial Intelligence (AI) and Machine Learning (ML) all the time, and they're often used interchangeably. But in reality, they aren't the same. Understanding the fundamental difference is crucial and the difference is more simple than you think.
 
-Think of it like this:
-- Artificial Intelligence is the big goal. It's the overall idea of creating machines that can "think" and "act" like humans to solve problems. This could be anything from a simple chatbot that follows a set of rules to a super-smart robot that can have a conversation and solve complex puzzles.
-- Machine Learning is one of the most powerful tools in the AI toolbox. It's a specific method that lets machines learn from data instead of being explicitly programmed with every single rule.
+Think of it like this - AI is the broad field of creating intelligent machines, while ML is a specific tool or method used to achieve AI.
 
-
-
+In this section, we will deconstruct the core concepts of artificial intelligence, differentiating between AI, Machine Learning, Deep Learning, and Generative AI
 
 <details>
-<summary>Generative AI - designed to create or generate something new, like text, images, or music, based on patterns it has learned</summary>
+<summary>Artificial Intelligence</summary>
 <br>
-<ul><li>Think of a recipe book. It can combine ingredients to create a variety of dishes, but it doesn’t “know” if the food tastes good or if you’ll like it. It’s just following learned patterns</li>
-<li> Example: ChatGPT for generating text and answering questions or DALL·E for creating images based on descriptions</li></ul>
+AI is best understood as a broad, umbrella field of computer science focused on creating machines that can simulate human cognitive functions like learning, reasoning, and problem-solving. It is the overarching concept that encompasses all other technologies discussed here.<br/>
+<br>
+<li>Example: Voice-assistants like Siri and Alexa, GPS and navigation apps like Google Maps, and even robot vacuums that can navigate the room and avoid obstacles.</li>
 </details>
 
 
