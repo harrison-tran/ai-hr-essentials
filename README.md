@@ -16,6 +16,14 @@ AI is best understood as a broad, umbrella field of computer science focused on 
 <li>Example: Voice-assistants like Siri and Alexa, GPS and navigation apps like Google Maps, and even robot vacuums that can navigate the room and avoid obstacles.</li>
 </details>
 
+<details>
+<summary>Machine Learning</summary>
+<br>
+ML is a critical subset of AI that gives computers the ability to learn from data without being explicitly programmed for every task. Instead of following a fixed set of rules, ML algorithms identify patterns in historical data to make predictions or decisions about new, unseen data. For recruiters, this is the engine behind most modern AI tools. The key differentiator is its capacity to improve its performance over time as it is exposed to more data.<br/>
+<br>
+<li>Example: Recommendation engines (like Netflix and Spotify) where systems learn your preferences from what you've watched or listened to and compare it to millions of other user habits, FaceID and how it learns to recognize your face from different angles, and even language translation services (Google Translate). </li>
+</details>
+
 
 
 
