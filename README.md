@@ -19,13 +19,26 @@ AI is best understood as a broad, umbrella field of computer science focused on 
 <details>
 <summary>Machine Learning</summary>
 <br>
-ML is a critical subset of AI that gives computers the ability to learn from data without being explicitly programmed for every task. Instead of following a fixed set of rules, ML algorithms identify patterns in historical data to make predictions or decisions about new, unseen data. For recruiters, this is the engine behind most modern AI tools. The key differentiator is its capacity to improve its performance over time as it is exposed to more data.<br/>
+ML is a critical subset of AI that gives computers the ability to learn from data without being explicitly programmed for every task. Instead of following a fixed set of rules, ML algorithms identify patterns in historical data to make predictions or decisions about new, unseen data. The key differentiator from AI is its capacity to improve its performance over time as it is exposed to more data. Even in ML, you will often hear two types, <code>traditional machine learning</code> and <code>deep learning</code>. We will cover deep learning in a seperate drop down but the biggest difference comes down to <code>feature selection</code> , a fancy term for telling the computer what important clues to look for in the data.<br/>
 <br>
-<li>Example: Recommendation engines (like Netflix and Spotify) where systems learn your preferences from what you've watched or listened to and compare it to millions of other user habits, FaceID and how it learns to recognize your face from different angles, and even language translation services (Google Translate). </li>
+<li> <code>Traditional machine learning</code> is like a bright apprentice. You need to guide it and teach it what to look for. It's smart and can learn patterns, but it relies on your expertise to point it in the right direction first. You have to do the heavy lifting of preparing the data and telling the model, "These are the important features you should pay attention to." This process is called <code>feature engineering.</code></li><br/>
 </details>
 
+<details>
+<summary>Deep Learning & Neural Networks</summary>
+<br>
+<code>Deep Learning</code> is an advanced subfield of ML that utilizes <i>artificial neural networks</i> or <i>ANNs</i> for short, which are complex, multi-layered algorithms inspired by the structure of the human brain. A basic neural network consists of an input layer (where data enters), one or more hidden layers (where processing occurs), and an output layer (where the result is produced). Deep learning networks are characterized by having many hidden layers, allowing them to analyze vast and complex datasets, including unstructured data like the text in a resume, the sentiment in a video interview, or the code in a GitHub repository.<br/>
+<br>
+<li>Sometimes people in the industry refer to ML as Classical ML instead of the entire field that contains DL. Just be weary of the context. But to keep it simple, here's a difference between Classical ML and Deep Learning.</li>
+<br>
 
-
+| Feature       | Classical ML | Deep Learning  |
+| ------------- |----------------| -------------|
+| Human Input      | Requires humans to identify and select important features   | Figures out the important features on its own |
+| Data Needs      | Can work with smaller amounts of data        | Needs very large amounts of data to learn effectively |
+| Complexity | Simiplier models       | High complex models with many layers (hence the term deep)|
+| Best for | Simplier tasks like predicting house prices or filtering spam emails     | Complex tasks like facial recognition, self-driving cars or natural language translation |
+</details>
 
 
 
