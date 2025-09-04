@@ -4,7 +4,7 @@ To strategically leverage AI in talent acquisition, a functional understanding o
 
 ---
 
-### **AI/ML Engineering**
+### 💠 **AI/ML Engineering** 💠
 You hear the terms Artificial Intelligence (AI) and Machine Learning (ML) all the time, and they're often used interchangeably. But in reality, they aren't the same. Understanding the fundamental difference is crucial and the difference is more simple than you think.
 
 Think of it like this - AI is the broad field of creating intelligent machines, while ML is a specific tool or method used to achieve AI.
@@ -47,7 +47,7 @@ ML is a critical subset of AI that gives computers the ability to learn from dat
 
 ---
 
-### **How Do Machines Even Learn?**
+### 💠 **How Do Machines Even Learn?** 💠
 
 Understanding the basics of how machines learn is beneficial for everyone because it provides insight into the tools that are increasingly shaping our professional and daily lives. For recruiters, this knowledge can help you understand the depth of the candidate's work and how it might apply to the role you're looking to fill.
 
@@ -73,7 +73,9 @@ With unsupervised learning, the algorithm is given unlabeled data and must find 
 <li>Example: E-commerce sites using customer purchase history to group people into "segments" to better target ads, or banks use this to spot unusual credit card transactions that could signal fraud by identifying activity that doesn't fit a customer's normal spending patterns.</li>
 </details>
 
-### **Resource - Generative AI in HR:**
+---
+
+### 💠 **Resource - Generative AI in HR:** 💠
 * [The Role Of Generative AI And Large Language Models in HR](https://joshbersin.com/2023/03/the-role-of-generative-ai-and-large-language-models-in-hr/)
 * [21+ ChatGPT Prompts for HR To Accelerate Your Productivity](https://www.aihr.com/blog/chatgpt-prompts-for-hr/#Before): Some great ChatGPT prompts to use as a recruiter or an HR professional.
 * [How Generative AI Will Transform HR](https://www.bcg.com/publications/2023/transforming-human-resources-using-generative-ai?utm_source=talentedgeweekly.beehiiv.com&utm_medium=referral&utm_campaign=talent-edge-weekly-issue-194): Great article that HR leaders can review to see possible use cases of Generative AI in traditional HR use cases.
