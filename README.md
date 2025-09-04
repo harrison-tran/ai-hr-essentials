@@ -73,6 +73,16 @@ With unsupervised learning, the algorithm is given unlabeled data and must find 
 <li>Example: E-commerce sites using customer purchase history to group people into "segments" to better target ads, or banks use this to spot unusual credit card transactions that could signal fraud by identifying activity that doesn't fit a customer's normal spending patterns.</li>
 </details>
 
+<details>
+<summary>Reinforcement Learning</summary>
+<br>
+With reinforcement learning, the model learns through trial and error by performing actions and receiving "rewards" or "penalties" based on the outcomes.<br/>
+<br>
+<code>Dummified version:</code> Reinforcement learning is like training a dog with treats. An model (in this case, the dog) learns to perform a task by interacting with an "environment" and receiving rewards for good actions and penalties for bad ones. There's no labeled dataset; the model learns through trial and error, trying to maximize its cumulative reward over time. It's all about making a sequence of decisions to reach a goal.
+<br></br>
+<li>Example: An AI playing a video game like chess, a self-driving car deciding when to brake or accelerate, or a robotic arm learning to pick up an object by trying different movements until it succeeds.</li>
+</details>
+
 ---
 
 ### 💠 **Resource - Generative AI in HR:** 💠
