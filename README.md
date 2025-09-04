@@ -16,7 +16,7 @@ In this section, we will deconstruct the core concepts of artificial intelligenc
 <br>
 AI is best understood as a broad, umbrella field of computer science focused on creating machines that can simulate human cognitive functions like learning, reasoning, and problem-solving. It is the overarching concept that encompasses all other technologies discussed here.<br/>
 <br>
-<li>Example: Voice-assistants like Siri and Alexa, GPS and navigation apps like Google Maps, and even robot vacuums that can navigate the room and avoid obstacles.</li>
+<li>Real world Example: Voice-assistants like Siri and Alexa, GPS and navigation apps like Google Maps, and even robot vacuums that can navigate the room and avoid obstacles.</li>
 </details>
 
 <details>
@@ -60,7 +60,7 @@ This is the most common type of ML, where the algorithm learns from data that ha
 <br>
 <code>Dummified version:</code> Think of supervised learning as a student with a teacher. The teacher will give you 100s of photos of cats and dogs, each properly labelled correctly. The machine's (in this case, the student's) job is to then learn the features that distinguish cats from dogs (e.g., shape of the ears, whiskers, etc.) so that when it sees a new, unlabeled picture, they can accurately predict whether it's a cat or a dog.
 <br></br>
-<li>Example: Spam filters (labeled as "spam" or "not spam"), predicting house prices (based on labeled data of past sales)</li>
+<li>Real world Example: Spam filters (labeled as "spam" or "not spam"), predicting house prices (based on labeled data of past sales)</li>
 </details>
 
 <details>
@@ -70,7 +70,7 @@ With unsupervised learning, the algorithm is given unlabeled data and must find 
 <br>
 <code>Dummified version:</code> Think of unsupervised learning as the complete opposite to supervised learning, a student learning on their own, without a teacher. It's like giving a child a box of assorted blocks and telling them to organize them. They might group them by color, shape, or size without being told how to do it.
 <br></br>
-<li>Example: E-commerce sites using customer purchase history to group people into "segments" to better target ads, or banks use this to spot unusual credit card transactions that could signal fraud by identifying activity that doesn't fit a customer's normal spending patterns.</li>
+<li>Real world Example: E-commerce sites using customer purchase history to group people into "segments" to better target ads, or banks use this to spot unusual credit card transactions that could signal fraud by identifying activity that doesn't fit a customer's normal spending patterns.</li>
 </details>
 
 <details>
@@ -80,7 +80,7 @@ With reinforcement learning, the model learns through trial and error by perform
 <br>
 <code>Dummified version:</code> Reinforcement learning is like training a dog with treats. An model (in this case, the dog) learns to perform a task by interacting with an "environment" and receiving rewards for good actions and penalties for bad ones. There's no labeled dataset; the model learns through trial and error, trying to maximize its cumulative reward over time. It's all about making a sequence of decisions to reach a goal.
 <br></br>
-<li>Example: An AI playing a video game like chess, a self-driving car deciding when to brake or accelerate, or a robotic arm learning to pick up an object by trying different movements until it succeeds.</li>
+<li>Real world Example: An AI playing a video game like chess, a self-driving car deciding when to brake or accelerate, or a robotic arm learning to pick up an object by trying different movements until it succeeds.</li>
 </details>
 
 ---
