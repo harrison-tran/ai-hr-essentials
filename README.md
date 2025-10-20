@@ -1,6 +1,6 @@
 # AI and ML Engineering For Dummies - HR and People Guide
 
-To strategically leverage AI to transform HR and people strategy, a functional understanding of the underlying technology is no longer optional. As someone in this field, this literacy is not about learning to code but about developing the capacity to evaluate vendor claims, understand the tools' capabilities and limitations, and communicate effectively with technical candidates and stakeholders. Here we'll demystifies the core technologies driving the HR revolution, cutting through marketing jargon to provide a clear, functional understanding of what AI and Machine Learning are and how they operate within the an organizational management context.
+To leverage AI to transform HR and people strategy, a functional understanding of the underlying technology is no longer optional. As someone in this field, this literacy is not about learning to code but about developing the capacity to evaluate vendor claims, understand the tools' capabilities and limitations, and communicate effectively with technical candidates and stakeholders. Here we'll demystifies the core technologies driving the HR revolution, cutting through marketing jargon to provide a clear, functional understanding of what AI and Machine Learning are and how they operate within the an organizational management context.
 
 ---
 
