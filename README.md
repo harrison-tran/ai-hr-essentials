@@ -1,4 +1,4 @@
-# AI and ML Engineering For Dummies - HR and People Guide
+# From Hype to High-Impact: AI Fluency for Modern HR Professsionals
 
 What if you could predict attrition before it happens, identify hidden talent pools, and design a truly personalized employee experience? With AI, this is no longer a fantasy. But to harness this power, HR and People Strategy leaders must move beyond the buzzwords. This guide is designed to bridge the gap between your strategic goals and the technology that can achieve them. 
 
