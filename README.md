@@ -1,6 +1,8 @@
 # AI and ML Engineering For Dummies - HR and People Guide
 
-What if you could predict attrition before it happens, identify hidden talent pools, and design a truly personalized employee experience? With AI, this is no longer a fantasy. But to harness this power, HR and People Strategy leaders must move beyond the buzzwords. This guide is designed to bridge the gap between your strategic goals and the technology that can achieve them. Forget the hype, I'm here to hopefully provide a clear, functional understanding of how AI and Machine Learning actually work from a fundamental context, equipping you with some stepping stones in order to help you make smarter investments, mitigate risks, and build a people-first strategy that delivers a powerful competitive advantage.
+What if you could predict attrition before it happens, identify hidden talent pools, and design a truly personalized employee experience? With AI, this is no longer a fantasy. But to harness this power, HR and People Strategy leaders must move beyond the buzzwords. This guide is designed to bridge the gap between your strategic goals and the technology that can achieve them. 
+
+Forget the hype, I'm here to hopefully provide a clear, functional understanding of how AI and Machine Learning actually work from a fundamental context, equipping you with some stepping stones in order to help you make smarter investments, mitigate risks, and build a people-first strategy that delivers a powerful competitive advantage.
 
 ---
 
